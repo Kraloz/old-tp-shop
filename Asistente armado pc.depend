@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1466041910 source:/home/tomas/Escritorio/Asistente armado pc/main.cpp
+	<iostream>
+	<cstdlib>
+
+1466528786 source:e:\proyecto informatico\tp shop\main.cpp
+	<iostream>
+	<cstdlib>
+
